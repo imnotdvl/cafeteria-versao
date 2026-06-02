@@ -154,6 +154,10 @@ h3 {
     transition: background-color 0.3s ease;
 }
 
+a{
+    text-decoration: none !important;
+}
+
 .link-botao:hover, .botao-produtos:hover, botao-sobre:hover {
     background-color: #874000;
 }
